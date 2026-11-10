@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdul Raheem 👋
 
-<!--
-**abdul-raheem-aiml/abdul-raheem-aiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AI/ML) student, currently in my first year.
+I'm learning to build software step by step, with the goal of becoming an AI/ML engineer.
 
-Here are some ideas to get you started:
+## 🎯 Currently learning
+- C++ and Object-Oriented Programming
+- Data Structures & Algorithms (in C++)
+- Python (next)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 What's here
+- **c-programming**: my C exercises, from basics to pointers, structures and file handling
+- More projects coming soon
+
+## 🗺️ My roadmap
+C → C++ → DSA → Python → Machine Learning → Projects & Internships
+
+## 📫 Connect
+- LinkedIn: []
